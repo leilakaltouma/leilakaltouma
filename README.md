@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Leila Kaltouma</h1>
 <h3 align="center">A passionate full stack developer from Mali</h3>
 
-- 🌱 I’m currently learning **view**
+- 🌱 I’m currently learning **React**
 
 - 📫 How to reach me **yasminekaltouma@gmail.com**
 
