@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi, I'm Leïla Kaltoumata👋</h1>
+  <h1>Hey, I'm Leïla Kaltoumata👋</h1>
   <h3>A passionate Full Stack Developer from Mali.</h3>
 
   <p>🌱 I’m currently learning <strong>React & Next.js</strong> to enhance my skills and keep up with the latest technology trends.</p>
